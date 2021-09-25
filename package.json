@@ -1,0 +1,20 @@
+{
+  "name": "@realsee/five_typescript_tutorial",
+  "version": "0.0.0",
+  "description": "@realsee/five 使用 typescript 教程",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "serve": "vite preview"
+  },
+  "author": "realsee.com",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.4.3",
+    "vite": "^2.5.8"
+  },
+  "dependencies": {
+    "@realsee/five": "^5.0.0-alpha.38",
+    "three": "^0.117.1"
+  }
+}
