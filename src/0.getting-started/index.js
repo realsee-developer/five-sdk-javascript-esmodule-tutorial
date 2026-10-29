@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
 import { Five, parseWork } from "@realsee/five";
 
 const workURL = "https://vrlab-public.ljcdn.com/release/static/image/release/five/work-sample/07bdc58f413bc5494f05c7cbb5cbdce4/work.json";

@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
 import { Five, parseWork } from "@realsee/five";
 import { Recorder } from "./recorder";
 
